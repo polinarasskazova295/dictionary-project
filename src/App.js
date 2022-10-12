@@ -1,13 +1,15 @@
 
 import './App.css';
+import Dictionary from "./Dictionary";
+import Github from "./Github";
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-    Hello
-    <a href="/" className ="btn btn-primary" > Helloo</a>
+    <Dictionary />
       </header>
+      <Github />
     </div>
   );
 }
