@@ -9,9 +9,8 @@ export default function end() {
         id="end-link"
         target="_blanc"
       >
-        Open-source{" "}
+        <i class="fa-brands fa-github"></i>
       </a>
-      by Polina Rasskazova
     </div>
   );
 }

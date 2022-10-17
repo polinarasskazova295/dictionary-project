@@ -1,23 +1,13 @@
-.Phonetic a {
-    border: 1px solid #ddd;
-    text-decoration: none;
-    padding: 8px 15px;
-    border-radius: 20px;
-    margin-right: 10px;
-    font-size: 20px;
-    font-weight: bold;
-    transition: all 150ms ease-in-out;
-    color: rgba(204, 165, 204, 0.833);
-}
-a:hover {
-    background: rgba(204, 165, 204, 0.575);
-    color:white;
-}
+
 .Phonetic {
      margin: 20px 0;
 }
 .text {
     opacity: 0.5;
     font-weight: bold;
-
+    font-size: 20px;
 }
+.Phonetic i {
+    font-size: 30px;
+    margin: 10px;
+} 

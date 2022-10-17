@@ -1,8 +1,15 @@
 body{
-    background: rgba(204, 165, 204, 0.575);
-   
+background: linear-gradient(109.6deg, rgb(253, 199, 141) 11.3%, rgb(249, 143, 253) 100.2%);
 }
+
 .App {
     max-width: 960px;
     margin: 0 auto
+}
+.App h1 {
+    text-align: center;
+    margin-top: 20px;
+    font-size: 85px;
+    font-family: 'Playfair Display', serif;
+
 }
